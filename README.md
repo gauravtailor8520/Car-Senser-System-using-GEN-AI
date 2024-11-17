@@ -49,15 +49,6 @@ Install dependencies
 
 Now run the jutyper Notebooks as usual
 
-## Authors
-
-- [@ankitdey-marsh](https://www.github.com/ankitdey-marsh)
-- [@Terminal127](https://www.github.com/Terminal127)
-- [@debjit-mandal](https://www.github.com/debjit-mandal)
-- [@nilotpal-basu](https://www.github.com/nilotpal-basu)
-- [@MrCelestial](https://www.github.com/MrCelestial)
-
-
 ## Badges
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
