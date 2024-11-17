@@ -1,0 +1,16 @@
+{
+    "name": "innovent-project",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "start": "node api/index.js",
+      "build": "cd advanced-dashboard/frontend && npm install && npm run build"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "engines": {
+      "node": ">=14.0.0"
+    }
+  }
+  
